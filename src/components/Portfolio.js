@@ -1,14 +1,14 @@
 import React from "react";
 import { FaPlus, FaTag } from "react-icons/lib/fa";
 
-import Caffeine from "../assets/images/portfolio/caffeine-boost-screens/caffeine-boost-screen1.png";
-import Cake from "../assets/images/portfolio/cake-raid-screens/cake-raid-screen4.png";
-import Judah from "../assets/images/portfolio/judah.jpg";
-import IntoTheLight from "../assets/images/portfolio/into-the-light.jpg";
-import Farmerboy from "../assets/images/portfolio/farmerboy.jpg";
-import Girl from "../assets/images/portfolio/girl.jpg";
-import Origami from "../assets/images/portfolio/origami.jpg";
-import Retrocam from "../assets/images/portfolio/retrocam.jpg";
+import Caffeine from "../assets/images/portfolio/caffeine-boost-thumb.png";
+import Cake from "../assets/images/portfolio/cake-raid-thumb.png";
+import Detritus from "../assets/images/portfolio/deep-six-detritus-thumb.png";
+import Prism from "../assets/images/portfolio/prism-buster-thumb.png";
+import Renu from "../assets/images/portfolio/renu-thumb.png";
+import Dungeon from "../assets/images/portfolio/tile-dungeon-thumb.png";
+import Punch from "../assets/images/portfolio/hole-punch-thumb.png";
+import Rock from "../assets/images/portfolio/the-rock-thumb.png";
 
 const Portfolio = () => (
   <section id="portfolio">
@@ -26,8 +26,8 @@ const Portfolio = () => (
                 <img alt="" src={Caffeine} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
-                    <h5>Coffee</h5>
-                    <p>Illustrration</p>
+                    <h5>Caffeine Boost</h5>
+                    <p>C++/OpenGL</p>
                   </div>
                 </div>
                 <div className="link-icon">
@@ -43,8 +43,8 @@ const Portfolio = () => (
                 <img alt="" src={Cake} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
-                    <h5>Console</h5>
-                    <p>Web Development</p>
+                    <h5>Cake Raid</h5>
+                    <p>C#/Unity</p>
                   </div>
                 </div>
                 <div className="link-icon">
@@ -57,11 +57,11 @@ const Portfolio = () => (
           <div className="columns portfolio-item">
             <div className="item-wrap">
               <a href="#modal-03" title="">
-                <img alt="" src={Judah} />
+                <img alt="" src={Detritus} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
-                    <h5>Judah</h5>
-                    <p>Webdesign</p>
+                    <h5>Deep Six Detritus</h5>
+                    <p>C#/Unity</p>
                   </div>
                 </div>
                 <div className="link-icon">
@@ -74,11 +74,11 @@ const Portfolio = () => (
           <div className="columns portfolio-item">
             <div className="item-wrap">
               <a href="#modal-04" title="">
-                <img alt="" src={IntoTheLight} />
+                <img alt="" src={Prism} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
-                    <h5>Into The Light</h5>
-                    <p>Photography</p>
+                    <h5>Prism Buster</h5>
+                    <p></p>
                   </div>
                 </div>
                 <div className="link-icon">
@@ -91,11 +91,11 @@ const Portfolio = () => (
           <div className="columns portfolio-item">
             <div className="item-wrap">
               <a href="#modal-05" title="">
-                <img alt="" src={Farmerboy} />
+                <img alt="" src={Renu} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
-                    <h5>Farmer Boy</h5>
-                    <p>Branding</p>
+                    <h5>Renu</h5>
+                    <p>HTML5/JS</p>
                   </div>
                 </div>
                 <div className="link-icon">
@@ -108,11 +108,11 @@ const Portfolio = () => (
           <div className="columns portfolio-item">
             <div className="item-wrap">
               <a href="#modal-06" title="">
-                <img alt="" src={Girl} />
+                <img alt="" src={Dungeon} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
-                    <h5>Girl</h5>
-                    <p>Photography</p>
+                    <h5>Tile Dungeon</h5>
+                    <p>Flash/ActionScript</p>
                   </div>
                 </div>
                 <div className="link-icon">
@@ -125,11 +125,11 @@ const Portfolio = () => (
           <div className="columns portfolio-item">
             <div className="item-wrap">
               <a href="#modal-07" title="">
-                <img alt="" src={Origami} />
+                <img alt="" src={Punch} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
-                    <h5>Origami</h5>
-                    <p>Illustrration</p>
+                    <h5>Hole Punch</h5>
+                    <p>DirectX</p>
                   </div>
                 </div>
                 <div className="link-icon">
@@ -142,11 +142,11 @@ const Portfolio = () => (
           <div className="columns portfolio-item">
             <div className="item-wrap">
               <a href="#modal-08" title="">
-                <img alt="" src={Retrocam} />
+                <img alt="" src={Rock} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
-                    <h5>Retrocam</h5>
-                    <p>Web Development</p>
+                    <h5>The Rock</h5>
+                    <p>Hammer/Source</p>
                   </div>
                 </div>
                 <div className="link-icon">
