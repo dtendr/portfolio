@@ -35,7 +35,7 @@ const Footer = () => (
             <a title="Styleshout" href="http://www.styleshout.com/">
               Styleshout
             </a>
-            Developed in React ⚛️ by &nbsp;
+            Developed in React ⚛️ by&nbsp;
             Josh Davis
             from <a href="https://github.com/amandeepmittal/gatsby-starter-ceevee">this base</a>
           </li>

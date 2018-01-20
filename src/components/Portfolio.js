@@ -158,7 +158,7 @@ const Portfolio = () => (
         </div>
       </div>
 
-      {/* <div id="modal-01" className="popup-modal mfp-hide">
+      { <div id="modal-01" className="popup-modal mfp-hide">
         <img
           className="scale-with-grid"
           src="images/portfolio/modals/m-coffee.jpg"
@@ -356,7 +356,7 @@ const Portfolio = () => (
           <a href="http://www.behance.net">Details</a>
           <a className="popup-modal-dismiss">Close</a>
         </div>
-      </div> */}
+      </div> }
     </div>
   </section>
 );
