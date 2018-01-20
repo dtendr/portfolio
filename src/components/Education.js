@@ -19,13 +19,14 @@ const Education = () => (
           </p>
 
           <p>
-            Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean
-            commodo ligula eget dolor. Aenean massa. Cum sociis natoque
-            penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-            Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
-            Nulla consequat massa quis enim. Donec pede justo, fringilla vel,
-            aliquet nec, vulputate eget, arcu. Nullam dictum felis eu pede
-            mollis pretium.
+            During my time at RIT, I pursued a variety of projects and interests.
+            I helped create a level for the RTS/FPS Nuclear Dawn, working during part of a semester 
+            and over the summer to design a total of three buildings in Hammer and the Source SDK, as well 
+            as a fair bit of the terrain.
+            I participated in several hackathons and game jams, most notably Microsoft's 2012 Imagine Cup.
+            A game I designed and helped program, Renu, won second place in the local college round.
+            For a year, I was Secretary for the Game Developers Club.
+            Towards the end of my time at RIT, I developed an interest in music composition and recording.
           </p>
         </div>
       </div>

@@ -19,13 +19,8 @@ const Work = () => (
           </p>
 
           <p>
-            Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean
-            commodo ligula eget dolor. Aenean massa. Cum sociis natoque
-            penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-            Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
-            Nulla consequat massa quis enim. Donec pede justo, fringilla vel,
-            aliquet nec, vulputate eget, arcu. Nullam dictum felis eu pede
-            mollis pretium.
+            Developed and updated training simulations for small businesses and
+            military contracts, focusing on Flash to HTML5 conversion.
           </p>
         </div>
       </div>
@@ -40,12 +35,24 @@ const Work = () => (
           </p>
 
           <p>
-            This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel
-            velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum
-            auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.
-            Duis sed odio sit amet nibh vulputate cursus a sit amet mauris.
-            Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a
-            ornare odio. Sed non mauris vitae erat
+            Developed updated versions of interactive applications using HTML5 for
+            use in live events at local businesses.
+          </p>
+        </div>
+      </div>
+
+       <div className="row item">
+        <div className="twelve columns">
+          <h3>iD Tech Camps</h3>
+          <p className="info">
+            Lead Instructor
+            <span>&bull;</span>
+            <em className="date">July 2013 - August 2013</em>
+          </p>
+
+          <p>
+            Instructed iD Programming Academy students at the MIT two week overnight
+            camp in the Minecraft Modding and Java Coding course.
           </p>
         </div>
       </div>
