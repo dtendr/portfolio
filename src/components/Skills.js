@@ -10,10 +10,18 @@ const Skills = () => (
 
     <div className="nine columns main-col">
       <p>
-        
+        Programming Languages: Actionscript 3, C#, C/C++, HTML5, Java, JavaScript, jQuery, MySQL, PHP, Python, TypeScript
       </p>
 
-      <div className="bars">
+      <p>
+        Software: Autodesk Maya, Flash Professional CC, CS5.5, FlashDevelop, Git, jGRASP,  Photoshop, Team Foundation
+      </p>
+
+      <p>
+        APIs/Libraries/Dev Kits: Server, Tortoise SVN, Visual Studio, CreateJS, DirectX 11, Hammer/Source SDK, Loom  SDK, OpenGL, ReactJS 
+      </p>
+
+      {/*<div className="bars">
         <ul className="skills">
           <li>
             <span className="bar-expand photoshop" />
@@ -40,7 +48,7 @@ const Skills = () => (
             <em>OpenGL</em>
           </li>
         </ul>
-      </div>
+      </div>*/}
     </div>
   </div>
 );
