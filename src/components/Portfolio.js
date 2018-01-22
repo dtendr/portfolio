@@ -9,6 +9,7 @@ import Renu from "../assets/images/portfolio/renu-thumb.png";
 import Dungeon from "../assets/images/portfolio/tile-dungeon-thumb.png";
 import Punch from "../assets/images/portfolio/hole-punch-thumb.png";
 import Rock from "../assets/images/portfolio/the-rock-thumb.png";
+import Diluv from "../assets/images/portfolio/diluv-thumb.png";
 
 const Portfolio = () => (
   <section id="portfolio">
@@ -147,6 +148,23 @@ const Portfolio = () => (
                   <div className="portfolio-item-meta">
                     <h5>The Rock</h5>
                     <p>Hammer/Source</p>
+                  </div>
+                </div>
+                <div className="link-icon">
+                  <FaPlus />
+                </div>
+              </a>
+            </div>
+          </div>
+
+          <div className="columns portfolio-item">
+            <div className="item-wrap">
+              <a href="#modal-09" title="">
+                <img alt="" src={Diluv} />
+                <div className="overlay">
+                  <div className="portfolio-item-meta">
+                    <h5>Diluv</h5>
+                    <p>React/Bootstrap</p>
                   </div>
                 </div>
                 <div className="link-icon">
