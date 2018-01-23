@@ -21,6 +21,24 @@ const Portfolio = () => (
           id="portfolio-wrapper"
           className="bgrid-quarters s-bgrid-thirds cf"
         >
+
+          <div className="columns portfolio-item">
+            <div className="item-wrap">
+              <a href="#modal-09" title="">
+                <img alt="" src={Diluv} />
+                <div className="overlay">
+                  <div className="portfolio-item-meta">
+                    <h5>Diluv</h5>
+                    <p>React/Bootstrap</p>
+                  </div>
+                </div>
+                <div className="link-icon">
+                  <FaPlus />
+                </div>
+              </a>
+            </div>
+          </div>
+
           <div className="columns portfolio-item">
             <div className="item-wrap">
               <a href="#modal-01" title="">
@@ -157,22 +175,6 @@ const Portfolio = () => (
             </div>
           </div>
 
-          <div className="columns portfolio-item">
-            <div className="item-wrap">
-              <a href="#modal-09" title="">
-                <img alt="" src={Diluv} />
-                <div className="overlay">
-                  <div className="portfolio-item-meta">
-                    <h5>Diluv</h5>
-                    <p>React/Bootstrap</p>
-                  </div>
-                </div>
-                <div className="link-icon">
-                  <FaPlus />
-                </div>
-              </a>
-            </div>
-          </div>
         </div>
       </div>
 
