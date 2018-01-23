@@ -1,5 +1,7 @@
 import React from "react";
 
+import cakexna from "../assets/projects/cake-raid-xna.zip";
+
 const Downloads = () => (
   <div className="row work">
     <div className="three columns header-col">
@@ -18,7 +20,7 @@ const Downloads = () => (
           </p>
 
           <p>
-            <a href="projects/cake-raid-xna.zip" title="Cake Raid (XNA)">Download</a>
+            <a href={cakexna} title="Cake Raid (XNA)">Download</a>
           </p>
         </div>
       </div>
