@@ -7,7 +7,6 @@ import Header from "../components/Header";
 import About from "../components/About";
 import Resume from "../components/Resume";
 import Portfolio from "../components/Portfolio";
-import Downloads from "../components/Downloads";
 import Footer from "../components/Footer";
 
 const IndexPage = () => (
@@ -16,7 +15,6 @@ const IndexPage = () => (
     <About />
     <Resume />
     <Portfolio />
-    <Downloads />
     <Footer />
   </div>
 );
