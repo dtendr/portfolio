@@ -6,7 +6,7 @@ const Downloads = () => (
     <div className="row downloads">
       <div className="three columns header-col">
         <h1>
-          <span>Downloads</span>
+          <span>Links</span>
         </h1>
       </div>
 
@@ -14,7 +14,7 @@ const Downloads = () => (
         <div className="row item">
           <div className="twelve columns">
 
-            <p>
+            {/*<p>
               <a href={ withPrefix('/projects/cake-raid-xna.zip') } title="Cake Raid (XNA)">Cake Raid (XNA)</a>
             </p>
             <p>
@@ -22,13 +22,16 @@ const Downloads = () => (
             </p>
             <p>
               <a href={ withPrefix('/projects/TileDungeon.swf') } title="Tile Dungeon">Tile Dungeon, prototype build</a>
+            </p>*/}
+            <p>
+              <a href="https://github.com/dtendr/cake-raid" title="cake-raid">Cake Raid Github</a>
             </p>
             <p>
-              <a href="http://adamettenberger.com/ImagineCup2013/play/" title="Renu">Renu, demo build</a>
+              <a href="http://adamettenberger.com/ImagineCup2013/play/" title="Renu">Renu</a>
             </p>
-            <p>
+            {/*<p>
               <a href={ withPrefix('/projects/The_Rock_(1.4).zip') } title="The Rock">The Rock (v1.4, for use with Nuclear Dawn)</a>
-            </p>
+            </p>*/}
             
           </div>
         </div>
