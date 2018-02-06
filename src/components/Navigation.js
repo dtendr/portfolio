@@ -25,11 +25,6 @@ const Navigation = () => (
         </a>
       </li>
       <li>
-        <a className="smoothscroll" href="#downloads">
-          Downloads
-        </a>
-      </li>
-      <li>
         <a className="smoothscroll" href="#footer">
           Footer
         </a>
