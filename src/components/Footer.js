@@ -1,6 +1,6 @@
 import React from "react";
 import {
-  FaFacebook,
+  FaLinkedinSquare,
   FaTwitter,
   FaGithub,
   FaChevronCircleUp
@@ -12,8 +12,8 @@ const Footer = () => (
       <div className="twelve columns">
         <ul className="social-links">
           <li>
-            <a href="https://www.facebook.com/jdavis4005">
-              <FaFacebook />
+            <a href="https://www.linkedin.com/in/josh-davis-74256840/">
+              <FaLinkedinSquare />
             </a>
           </li>
           <li>
@@ -35,6 +35,8 @@ const Footer = () => (
             <a title="Styleshout" href="http://www.styleshout.com/">
               Styleshout
             </a>
+          </li>
+          <li>
             Developed in React ⚛️ by&nbsp;
             Josh Davis
             from <a href="https://github.com/amandeepmittal/gatsby-starter-ceevee">this base</a>

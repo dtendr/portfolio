@@ -26,6 +26,7 @@ const Education = () => (
             I participated in several hackathons and game jams, most notably Microsoft's 2012 Imagine Cup.
             A game I designed and helped program, Renu, won second place in the local college round.
             For a year, I was Secretary for the Game Developers Club.
+            I took two years off to work full-time in military contracting.
             Towards the end of my time at RIT, I developed an interest in music composition and recording.
           </p>
         </div>
