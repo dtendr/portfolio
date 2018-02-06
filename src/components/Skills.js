@@ -10,15 +10,21 @@ const Skills = () => (
 
     <div className="nine columns main-col">
       <p>
-        Programming Languages: Actionscript 3, C#, C/C++, HTML5, Java, JavaScript, jQuery, MySQL, PHP, Python, TypeScript
+        Programming Languages: 
+
+        Actionscript 3, C, C++, C#, HTML5, Java, JavaScript, jQuery, MySQL, PHP, Python, TypeScript
       </p>
 
       <p>
-        Software: Autodesk Maya, Flash Professional CC, CS5.5, FlashDevelop, Git, jGRASP,  Photoshop, Team Foundation
+        Software: 
+
+        Autodesk Maya, Flash Professional CC, CS5.5, FlashDevelop, Git, jGRASP, Photoshop, Team Foundation Server, Tortoise SVN, Visual Studio
       </p>
 
       <p>
-        APIs/Libraries/Dev Kits: Server, Tortoise SVN, Visual Studio, CreateJS, DirectX 11, Hammer/Source SDK, Loom  SDK, OpenGL, ReactJS 
+        APIs/Libraries/Dev Kits: 
+
+        CreateJS, DirectX 11, Hammer/Source SDK, Loom SDK, OpenGL, ReactJS 
       </p>
 
       {/*<div className="bars">
