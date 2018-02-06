@@ -22,7 +22,7 @@ const Portfolio = () => (
           className="bgrid-quarters s-bgrid-thirds cf"
         >
 
-          <div className="columns portfolio-item">
+          {/*<div className="columns portfolio-item">
             <div className="item-wrap">
               <a href="#modal-09" title="">
                 <img alt="" src={Diluv} />
@@ -37,7 +37,7 @@ const Portfolio = () => (
                 </div>
               </a>
             </div>
-          </div>
+          </div>*/}
 
           <div className="columns portfolio-item">
             <div className="item-wrap">
