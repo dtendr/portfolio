@@ -11,19 +11,19 @@ const Skills = () => (
     <div className="nine columns main-col">
       <p>
         Programming Languages: 
-        <br>
+        <br />
         Actionscript 3, C, C++, C#, HTML5, Java, JavaScript, jQuery, MySQL, PHP, Python, TypeScript
       </p>
 
       <p>
         Software: 
-        <br>
+        <br />
         Autodesk Maya, Flash Professional CC, CS5.5, FlashDevelop, Git, jGRASP, Photoshop, Team Foundation Server, Tortoise SVN, Visual Studio
       </p>
 
       <p>
         APIs/Libraries/Dev Kits: 
-        <br>
+        <br />
         CreateJS, DirectX 11, Hammer/Source SDK, Loom SDK, OpenGL, ReactJS 
       </p>
 
