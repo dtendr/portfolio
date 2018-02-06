@@ -31,7 +31,7 @@ const Footer = () => (
         <ul className="copyright">
           <li>&copy; Copyright 2018 CeeVee</li>
           <li>
-            Design by
+            Design by 
             <a title="Styleshout" href="http://www.styleshout.com/">
               Styleshout
             </a>
