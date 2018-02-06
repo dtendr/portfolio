@@ -26,11 +26,6 @@ const About = () => (
             <p className="address">
               <span>Josh Davis</span>
               <br />
-              <span>
-                5 Williamson Dr.
-                <br /> Newport News, VA 23608 US
-              </span>
-              <br />
               <span>(757)871-5193</span>
               <br />
               <span>dtendr@gmail.com</span>
