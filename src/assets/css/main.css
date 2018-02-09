@@ -800,9 +800,6 @@ properly.
 
 
 
-
-
-
 /*
 =====================================================================
 *   Ceevee v1.0 Layout Stylesheet
@@ -840,11 +837,20 @@ header {
   height: 800px;
   min-height: 500px;
   width: 100%;
-  background: #161415 url(../images/header-background.jpg) no-repeat top center;
-  background-size: cover !important;
-  -webkit-background-size: cover !important;
+  background: #161415;
   text-align: center;
   overflow: hidden;
+}
+
+#projectpage {
+  position: relative;
+  height: 0px;
+  min-height: 0px;
+  width: 100%;
+  background: #fff;
+  text-align: left;
+  overflow: hidden;
+  margin-bottom:5em;
 }
 
 /* vertically center banner section */
@@ -1106,10 +1112,15 @@ ul#nav li.current a {
 }
 
 .education,
-.work {
+.work,
+#project-page {
   margin-bottom: 48px;
   padding-bottom: 24px;
   border-bottom: 1px solid #e8e8e8;
+}
+#project-page{
+   padding-top: 30px;
+   background:#fff;
 }
 #resume .info {
   

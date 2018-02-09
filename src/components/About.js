@@ -18,7 +18,7 @@ const About = () => (
           old C#/XNA projects into C#/Unity, as well as Deep Six Detritus, a C#/Unity puzzle game with RPG elements. 
 
           Outside of development, I love tabletop games, and recently developed an interest in music composition
-          and production, mostly just using audio workstations, but I'm considering trying out various instruments.
+          and production. I've mostly just been using audio workstations, but I'm considering trying out various instruments.
         </p>
         <div className="row">
           <div className="columns contact-details">
