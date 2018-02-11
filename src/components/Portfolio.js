@@ -7,7 +7,6 @@ import Cake from "../assets/images/portfolio/cake-raid-thumb.png";
 import Detritus from "../assets/images/portfolio/deep-six-detritus-thumb.png";
 import Prism from "../assets/images/portfolio/prism-buster-thumb.png";
 import Renu from "../assets/images/portfolio/renu-thumb.png";
-import Dungeon from "../assets/images/portfolio/tile-dungeon-thumb.png";
 import Punch from "../assets/images/portfolio/hole-punch-thumb.png";
 import Rock from "../assets/images/portfolio/the-rock-thumb.png";
 import Diluv from "../assets/images/portfolio/diluv-thumb.png";
@@ -59,7 +58,7 @@ const Portfolio = () => (
 
           <div className="columns portfolio-item">
             <div className="item-wrap">
-              <a href="#modal-02" title="">
+              <Link to="/CakeRaid" className="link primary">
                 <img alt="" src={Cake} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
@@ -70,13 +69,13 @@ const Portfolio = () => (
                 <div className="link-icon">
                   <FaPlus />
                 </div>
-              </a>
+              </Link>
             </div>
           </div>
 
           <div className="columns portfolio-item">
             <div className="item-wrap">
-              <a href="#modal-03" title="">
+              <Link to="/DeepSixDetritus" className="link primary">
                 <img alt="" src={Detritus} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
@@ -87,11 +86,11 @@ const Portfolio = () => (
                 <div className="link-icon">
                   <FaPlus />
                 </div>
-              </a>
+              </Link>
             </div>
           </div>
 
-          <div className="columns portfolio-item">
+          {/*<div className="columns portfolio-item">
             <div className="item-wrap">
               <a href="#modal-04" title="">
                 <img alt="" src={Prism} />
@@ -106,11 +105,11 @@ const Portfolio = () => (
                 </div>
               </a>
             </div>
-          </div>
+          </div>*/}
 
           <div className="columns portfolio-item">
             <div className="item-wrap">
-              <a href="#modal-05" title="">
+              <Link to="/Renu" className="link primary">
                 <img alt="" src={Renu} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
@@ -121,28 +120,11 @@ const Portfolio = () => (
                 <div className="link-icon">
                   <FaPlus />
                 </div>
-              </a>
+              </Link>
             </div>
           </div>
 
-          <div className="columns portfolio-item">
-            <div className="item-wrap">
-              <a href="#modal-06" title="">
-                <img alt="" src={Dungeon} />
-                <div className="overlay">
-                  <div className="portfolio-item-meta">
-                    <h5>Tile Dungeon</h5>
-                    <p>Flash/ActionScript</p>
-                  </div>
-                </div>
-                <div className="link-icon">
-                  <FaPlus />
-                </div>
-              </a>
-            </div>
-          </div>
-
-          <div className="columns portfolio-item">
+          {/*<div className="columns portfolio-item">
             <div className="item-wrap">
               <a href="#modal-07" title="">
                 <img alt="" src={Punch} />
@@ -157,11 +139,11 @@ const Portfolio = () => (
                 </div>
               </a>
             </div>
-          </div>
+          </div>*/}
 
           <div className="columns portfolio-item">
             <div className="item-wrap">
-              <a href="#modal-08" title="">
+              <Link to="/TheRock" className="link primary">
                 <img alt="" src={Rock} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
@@ -172,13 +154,13 @@ const Portfolio = () => (
                 <div className="link-icon">
                   <FaPlus />
                 </div>
-              </a>
+              </Link>
             </div>
           </div>
 
         </div>
       </div>
-      
+
     </div>
   </section>
 );
