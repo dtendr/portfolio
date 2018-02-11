@@ -31,8 +31,8 @@ const CaffeineBoost = () => (
                 <p>OpenGL</p>
 
                 <a href="https://github.com/DanteNardo/CaffeineBoost">
-                                    <FaGithubSquare />
-                                </a> 
+                    <FaGithubSquare />
+                </a> 
             </div>
 
             <div className="eight columns main-col">
@@ -40,16 +40,12 @@ const CaffeineBoost = () => (
                     <div className="twelve columns">
                         <h3></h3>
                             <p className="info">
-                                A 3D Finite Runner where the goal is to obtain the highest points possible through coffee pickups and distance ran.
-               
-                                      
-                        
+                                A 3D Finite Runner where the goal is to obtain the highest points possible through 
+                                coffee pickups and distance ran.
                             </p>
 
                             <br/>
-
-                                
-
+                            
                             <p>
                                 <img alt="" src={BoostGIF} />
                             </p>

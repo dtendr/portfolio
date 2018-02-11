@@ -6,7 +6,7 @@ const ProjectNavigation = () => (
     <a className="mobile-btn" href="#nav-wrap" />
     <ul id="nav" className="nav">
       <li className="current">
-         <Link to="/CaffeineBoost" className="link primary">Home</Link>
+         <Link to="/index" className="link primary">Home</Link>
       </li>
       <li>
         <a className="smoothscroll" href="#footer">
