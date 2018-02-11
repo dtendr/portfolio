@@ -9,7 +9,6 @@ import Prism from "../assets/images/portfolio/prism-buster-thumb.png";
 import Renu from "../assets/images/portfolio/renu-thumb.png";
 import Punch from "../assets/images/portfolio/hole-punch-thumb.png";
 import Rock from "../assets/images/portfolio/the-rock-thumb.png";
-import Diluv from "../assets/images/portfolio/diluv-thumb.png";
 
 const Portfolio = () => (
   <section id="portfolio">
