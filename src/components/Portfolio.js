@@ -16,6 +16,8 @@ const Portfolio = () => (
       <div className="twelve columns collapsed">
         <h1>Check Out Some of My Works.</h1>
 
+        <h1>Programming</h1>
+
         <div
           id="portfolio-wrapper"
           className="bgrid-quarters s-bgrid-thirds cf"
@@ -140,6 +142,17 @@ const Portfolio = () => (
             </div>
           </div>*/}
 
+
+        </div>
+
+
+        <h1>Level Design</h1>
+
+        <div
+          id="portfolio-wrapper2"
+          className="bgrid-quarters s-bgrid-thirds cf"
+        >
+
           <div className="columns portfolio-item">
             <div className="item-wrap">
               <Link to="/TheRock" className="link primary">
@@ -159,7 +172,6 @@ const Portfolio = () => (
 
         </div>
       </div>
-
     </div>
   </section>
 );

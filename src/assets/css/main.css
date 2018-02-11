@@ -1330,6 +1330,9 @@ ul#nav li.current a {
 
 /* Portfolio Content */
 #portfolio-wrapper .columns {
+  margin-bottom: 94px;
+}
+#portfolio-wrapper2 .columns {
   margin-bottom: 36px;
 }
 .portfolio-item .item-wrap {
@@ -2161,7 +2164,8 @@ footer .social-links li:first-child {
 
  /* Portfolio Section
  /* ----------------------------------------------------------------- */
- #portfolio-wrapper .columns { margin-bottom: 40px; }
+ #portfolio-wrapper .columns { margin-bottom: 100px; }
+ #portfolio-wrapper2 .columns { margin-bottom: 40px; }
  .popup-modal { max-width: 85%; }
 
 
