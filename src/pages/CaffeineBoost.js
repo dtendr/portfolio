@@ -40,8 +40,11 @@ const CaffeineBoost = () => (
                     <div className="twelve columns">
                         <h3></h3>
                             <p className="info">
-                                A 3D Finite Runner where the goal is to obtain the highest points possible through 
-                                coffee pickups and distance ran.
+                                Caffeine Boost is a 3D Finite Runner where the goal is to obtain the highest points 
+                                possible through coffee pickups and distance ran. This game was developed for a class, 
+                                over a period of about three weeks. I provided most of the ideas for the design that
+                                ended up in the final version, programmed the initial collision system, and helped 
+                                implement gameplay tweaks and refinements.
                             </p>
 
                             <br/>
