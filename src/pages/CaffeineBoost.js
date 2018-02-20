@@ -30,9 +30,13 @@ const CaffeineBoost = () => (
                 <h2>Tools Used:</h2>
                 <p>OpenGL</p>
 
-                <a href="https://github.com/DanteNardo/CaffeineBoost">
-                    <FaGithubSquare />
-                </a> 
+                <ul className="social-links">
+                    <li>
+                        <a href="https://github.com/DanteNardo/CaffeineBoost">
+                            <FaGithubSquare />
+                        </a> 
+                    </li>
+                </ul>
             </div>
 
             <div className="eight columns main-col">
