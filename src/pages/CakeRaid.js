@@ -28,9 +28,13 @@ const CakeRaid = () => (
                 <h2>Tools Used:</h2>
                 <p>Unity, Visual Studio (C#)</p>
 
-                <a href="https://github.com/dtendr/cake-raid" title="cakeraidgithub">
-                    <FaGithubSquare />
-                </a> 
+                <ul className="social-links-sidebar">
+                    <li>
+                        <a href="https://github.com/dtendr/cake-raid" title="cakeraidgithub">
+                            <FaGithubSquare />
+                        </a> 
+                    </li>
+                </ul>
             </div>
 
             <div className="eight columns main-col">
