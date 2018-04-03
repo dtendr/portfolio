@@ -171,6 +171,34 @@ const Portfolio = () => (
           </div>
 
         </div>
+
+
+        <h1>Web Design</h1>
+
+        <div
+          id="portfolio-wrapper3"
+          className="bgrid-quarters s-bgrid-thirds cf"
+        >
+
+          <div className="columns portfolio-item">
+            <div className="item-wrap">
+              <Link to="/" className="link primary">
+                <img alt="" src={Rock} />
+                <div className="overlay">
+                  <div className="portfolio-item-meta">
+                    <h5>Syntactic Sugar</h5>
+                    <p>ReactJS/GatsbyJS</p>
+                  </div>
+                </div>
+                <div className="link-icon">
+                  <FaPlus />
+                </div>
+              </Link>
+            </div>
+          </div>
+
+        </div>
+
       </div>
     </div>
   </section>

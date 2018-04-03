@@ -1335,6 +1335,9 @@ ul#nav li.current a {
   margin-bottom: 94px;
 }
 #portfolio-wrapper2 .columns {
+  margin-bottom: 94px;
+}
+#portfolio-wrapper3 .columns {
   margin-bottom: 36px;
 }
 .portfolio-item .item-wrap {
