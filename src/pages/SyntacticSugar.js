@@ -28,8 +28,11 @@ const SyntacticSugar = () => (
                 <br/>
 
                 <h2>Tools Used:</h2>
-                <p>ReactJS</p>
-                <p>GatsbyJS</p>
+                <p>
+                    ReactJS
+                    <br/>
+                    GatsbyJS
+                </p>
 
                 <ul className="social-links-sidebar">
                     <li>
@@ -44,12 +47,8 @@ const SyntacticSugar = () => (
                 <div className="row item">
                     <div className="twelve columns">
                         <h3></h3>
-                            <p className="info">
-                                "Syntactic Sugar is an indie Japanese-style visual novel following the life of a programmer 
-                                and his experiences working at a small web solutions company. The game is currently being 
-                                developed by a small team of talented individuals from around the world with the common goal 
-                                of bringing this story to life."
 
+                            <p className="info">
                                 I designed and scripted a relatively simple website to the specifications of a friend, for
                                 promotion of an upcoming indie visual novel. This was iterated on and improved with feedback,
                                 and deployed in basically the same way this portfolio was, except to a private server.
@@ -60,6 +59,16 @@ const SyntacticSugar = () => (
                             <p>
                                 <img alt="" src={SugarThumb} />
                             </p>
+
+                            <br/>
+
+                            <p className="info">
+                                "Syntactic Sugar is an indie Japanese-style visual novel following the life of a programmer 
+                                and his experiences working at a small web solutions company. The game is currently being 
+                                developed by a small team of talented individuals from around the world with the common goal 
+                                of bringing this story to life."
+                            </p>
+
                     </div>
                 </div>
             </div>
