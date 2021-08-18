@@ -26,7 +26,7 @@ const About = () => (
             <p className="address">
               <span>Josh Davis</span>
               <br />
-              <span>(757)871-5193</span>
+              <span>(434)981-2293</span>
               <br />
               <span>dtendr@gmail.com</span>
             </p>

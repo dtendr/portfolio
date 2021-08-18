@@ -12,13 +12,13 @@ const Skills = () => (
       <p>
         Programming Languages: 
         <br />
-        Actionscript 3, C, C++, C#, HTML5, Java, JavaScript, jQuery, MySQL, PHP, Python, TypeScript
+        Actionscript 3, C, C++, C#, HTML5, Java, JavaScript, jQuery, SQL, PHP, Python, TypeScript
       </p>
 
       <p>
         Software: 
         <br />
-        Autodesk Maya, Flash Professional CC, CS5.5, FlashDevelop, Git, jGRASP, Photoshop, Team Foundation Server, Tortoise SVN, Visual Studio
+        Autodesk Maya, Flash Professional CC, CS5.5, FlashDevelop, Git, jGRASP, Mirth,  Photoshop, Team Foundation Server, Tortoise SVN, Visual Studio
       </p>
 
       <p>
