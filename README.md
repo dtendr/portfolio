@@ -30,3 +30,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * Built from (https://github.com/amandeepmittal/gatsby-starter-ceevee)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e659e02c-2b80-466a-b15e-053f33d631ed/deploy-status)](https://app.netlify.com/sites/dazzling-swirles-5bbd55/deploys)
