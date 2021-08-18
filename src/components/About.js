@@ -13,9 +13,9 @@ const About = () => (
       <div className="nine columns main-col">
         <h2>About Me</h2>
         <p>
-          I'm a developer with a variety of interests. Recently, I've worked more closely with simulation 
-          development in web applications. Even more recently, I've worked on porting Cake Raid, one of my 
-          old C#/XNA projects into C#/Unity, as well as Deep Six Detritus, a C#/Unity puzzle game with RPG elements. 
+          I'm a developer with a variety of interests. Professionally, I work as an interface analyst for point of care devices in the medical field. Previously, I worked 
+          in simulation development for web applications. In my spare time, I've worked on porting Cake Raid, one of my old C#/XNA projects into C#/Unity, as well as Deep 
+          Six Detritus, a C#/Unity puzzle game with RPG elements. 
 
           Outside of development, I love tabletop games, and recently developed an interest in music composition
           and production. I've mostly just been using audio workstations, but I'm considering trying out various instruments.
