@@ -3,7 +3,7 @@ import {
   FaLinkedinSquare,
   FaTwitterSquare,
   FaGithubSquare
-} from "react-icons/lib/fa";
+} from "react-icons/fa";
 
 const Banner = () => (
   <div className="row banner">

@@ -4,7 +4,7 @@ import {
   FaTwitter,
   FaGithub,
   FaChevronCircleUp
-} from "react-icons/lib/fa";
+} from "react-icons/fa";
 
 const Footer = () => (
   <footer id="footer">

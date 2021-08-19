@@ -8,7 +8,7 @@ import Footer from "../components/Footer";
 
 import {
   FaGithubSquare
-} from "react-icons/lib/fa";
+} from "react-icons/fa";
 
 import BoostGIF from "../assets/images/portfolio/final_gifs/runner.gif";
 

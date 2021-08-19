@@ -8,7 +8,7 @@ import Footer from "../components/Footer";
 
 import {
   FaExternalLinkSquare
-} from "react-icons/lib/fa";
+} from "react-icons/fa";
 
 import SugarThumb from "../assets/images/portfolio/syntactic-sugar-thumb.png";
 
