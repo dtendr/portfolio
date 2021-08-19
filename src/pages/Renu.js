@@ -6,10 +6,6 @@ import "../assets/css/main.css";
 import ProjectNavigation from "../components/ProjectNavigation";
 import Footer from "../components/Footer";
 
-import {
-  FaGithubSquare
-} from "react-icons/fa";
-
 const Renu = () => (
   <div>
     <header id="projectpage">

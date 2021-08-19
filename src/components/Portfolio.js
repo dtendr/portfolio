@@ -1,6 +1,6 @@
 import React from "react";
 import Link from "gatsby-link";
-import { FaPlus, FaTag } from "react-icons/fa";
+import * as Icons from "react-icons/fa";
 
 import Caffeine from "../assets/images/portfolio/caffeine-boost-thumb.png";
 import Cake from "../assets/images/portfolio/cake-raid-thumb.png";
@@ -52,7 +52,7 @@ const Portfolio = () => (
                   </div>
                 </div>
                 <div className="link-icon">
-                  <FaPlus />
+                  <Icons.FaPlus />
                 </div>
               </Link>
             </div>
@@ -69,7 +69,7 @@ const Portfolio = () => (
                   </div>
                 </div>
                 <div className="link-icon">
-                  <FaPlus />
+                  <Icons.FaPlus />
                 </div>
               </Link>
             </div>
@@ -86,7 +86,7 @@ const Portfolio = () => (
                   </div>
                 </div>
                 <div className="link-icon">
-                  <FaPlus />
+                  <Icons.FaPlus />
                 </div>
               </Link>
             </div>
@@ -120,7 +120,7 @@ const Portfolio = () => (
                   </div>
                 </div>
                 <div className="link-icon">
-                  <FaPlus />
+                  <Icons.FaPlus />
                 </div>
               </Link>
             </div>
@@ -165,7 +165,7 @@ const Portfolio = () => (
                   </div>
                 </div>
                 <div className="link-icon">
-                  <FaPlus />
+                  <Icons.FaPlus />
                 </div>
               </Link>
             </div>
@@ -192,7 +192,7 @@ const Portfolio = () => (
                   </div>
                 </div>
                 <div className="link-icon">
-                  <FaPlus />
+                  <Icons.FaPlus />
                 </div>
               </Link>
             </div>

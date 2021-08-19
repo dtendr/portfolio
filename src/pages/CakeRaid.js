@@ -6,9 +6,7 @@ import "../assets/css/main.css";
 import ProjectNavigation from "../components/ProjectNavigation";
 import Footer from "../components/Footer";
 
-import {
-  FaGithubSquare
-} from "react-icons/fa";
+import * as Icons from "react-icons/fa";
 
 const CakeRaid = () => (
   <div>
@@ -31,7 +29,7 @@ const CakeRaid = () => (
                 <ul className="social-links-sidebar">
                     <li>
                         <a href="https://github.com/dtendr/cake-raid" title="cakeraidgithub">
-                            <FaGithubSquare />
+                            <Icons.FaGithubSquare />
                         </a> 
                     </li>
                 </ul>

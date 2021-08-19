@@ -6,9 +6,7 @@ import "../assets/css/main.css";
 import ProjectNavigation from "../components/ProjectNavigation";
 import Footer from "../components/Footer";
 
-import {
-  FaExternalLinkSquare
-} from "react-icons/fa";
+import * as Icons from "react-icons/fa";
 
 import SugarThumb from "../assets/images/portfolio/syntactic-sugar-thumb.png";
 
@@ -37,7 +35,7 @@ const SyntacticSugar = () => (
                 <ul className="social-links-sidebar">
                     <li>
                         <a href="http://syntacticsugar.moe/">
-                            <FaExternalLinkSquare />
+                            <Icons.FaExternalLinkSquareAlt />
                         </a> 
                     </li>
                 </ul>

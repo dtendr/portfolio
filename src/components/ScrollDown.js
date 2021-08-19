@@ -1,10 +1,10 @@
 import React from "react";
-import { FaChevronCircleDown } from "react-icons/fa";
+import * as Icons from "react-icons/fa";
 
 const ScrollDown = () => (
   <p className="scrolldown">
     <a className="smoothscroll" href="#about">
-      <FaChevronCircleDown />
+      <Icons.FaChevronCircleDown />
     </a>
   </p>
 );

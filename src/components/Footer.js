@@ -1,10 +1,5 @@
 import React from "react";
-import {
-  FaLinkedinSquare,
-  FaTwitter,
-  FaGithub,
-  FaChevronCircleUp
-} from "react-icons/fa";
+import * as Icons from "react-icons/fa";
 
 const Footer = () => (
   <footer id="footer">
@@ -13,17 +8,17 @@ const Footer = () => (
         <ul className="social-links">
           <li>
             <a href="https://www.linkedin.com/in/josh-davis-74256840/">
-              <FaLinkedinSquare />
+              <Icons.FaLinkedin />
             </a>
           </li>
           <li>
             <a href="https://twitter.com/dtendr">
-              <FaTwitter />
+              <Icons.FaTwitter />
             </a>
           </li>
           <li>
             <a href="https://github.com/dtendr">
-              <FaGithub />
+              <Icons.FaGithub />
             </a>
           </li>
         </ul>
@@ -46,7 +41,7 @@ const Footer = () => (
 
       <div id="go-top">
         <a className="smoothscroll" title="Back to Top" href="#home">
-          <FaChevronCircleUp />
+          <Icons.FaChevronCircleUp />
         </a>
       </div>
     </div>

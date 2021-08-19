@@ -1,9 +1,5 @@
 import React from "react";
-import {
-  FaLinkedinSquare,
-  FaTwitterSquare,
-  FaGithubSquare
-} from "react-icons/fa";
+import * as Icons from "react-icons/fa";
 
 const Banner = () => (
   <div className="row banner">
@@ -18,17 +14,17 @@ const Banner = () => (
       <ul className="social">
         <li>
           <a href="https://www.linkedin.com/in/josh-davis-74256840/">
-            <FaLinkedinSquare />
+            <Icons.FaLinkedin />
           </a>
         </li>
         <li>
           <a href="https://twitter.com/dtendr">
-            <FaTwitterSquare />
+            <Icons.FaTwitterSquare />
           </a>
         </li>
         <li>
           <a href="https://github.com/dtendr">
-            <FaGithubSquare />
+            <Icons.FaGithubSquare />
           </a>
         </li>
       </ul>

@@ -6,10 +6,7 @@ import "../assets/css/main.css";
 import ProjectNavigation from "../components/ProjectNavigation";
 import Footer from "../components/Footer";
 
-import {
-  FaGithubSquare
-} from "react-icons/fa";
-
+import * as Icons from "react-icons/fa";
 import BoostGIF from "../assets/images/portfolio/final_gifs/runner.gif";
 
 const CaffeineBoost = () => (
@@ -33,7 +30,7 @@ const CaffeineBoost = () => (
                 <ul className="social-links-sidebar">
                     <li>
                         <a href="https://github.com/DanteNardo/CaffeineBoost">
-                            <FaGithubSquare />
+                            <Icons.FaGithubSquare />
                         </a> 
                     </li>
                 </ul>
